@@ -1,0 +1,10 @@
+*.tfstate
+*.tfstate.*
+*.pub
+*.pem
+*.ppk
+provider.tf
+**/.terraform/*
+.terraform.rc
+crash.log
+crash.*.log
