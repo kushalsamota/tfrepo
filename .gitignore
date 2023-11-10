@@ -8,3 +8,4 @@ provider.tf
 .terraform.rc
 crash.log
 crash.*.log
+id_rsa
